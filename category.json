@@ -1,0 +1,28 @@
+[
+    {
+        "category_id": 1 ,
+        "category": "Mobile" ,
+        "image": "mobile.jpeg"
+
+    },
+    {
+        "category_id": 2 ,
+        "category": "Fashion ",
+        "image": "fashion.jpeg"
+
+    },
+    {
+        "category_id": 3 ,
+        "category": "Electronic" ,
+        "image": "Electronic.jpeg"
+
+    },
+    {
+        "category_id": 4 ,
+        "category": "Beauty" ,
+        "image": "beauty.jpeg"
+
+    }
+    
+
+]

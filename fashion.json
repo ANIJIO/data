@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "product_name":"shirt",
+        "category_id":2,
+        "category":"fashion",
+        "price":699,
+        "size":"small,medium,large",
+        "image":"https://i.ibb.co/PWy6XPD/original-imagfaephjryhzvb.png",
+        "color":"red-black",
+        "Brand":"peter England"
+        
+    },
+    {
+        "id":2,
+        "product_name":"shirt",
+        "category_id":2,
+        "category":"fashion",
+        "price":599,
+        "size":"small,medium,large",
+        "image":"https://i.ibb.co/3FYW82B/original-imaggvzhxzkqmnzg.png",
+        "color":"ligth brown",
+        "Brand":"Arrow"
+        
+    },
+    {
+        "id":3,
+        "product_name":"women cotton blend trouser",
+        "category_id":2,
+        "category":"fashion",
+        "price":999,
+        "size":"small,medium,large",
+        "image":"https://i.ibb.co/2kr6tfQ/26-kttladiesjeans694-kotty-original-imafxg4j4ftawa6d.png",
+        "color":"black",
+        "Brand":"Roadster"
+        
+    },
+    {
+        "id":4,
+        "product_name":"kurti",
+        "category_id":2,
+        "category":"fashion",
+        "price":800,
+        "size":"small,medium,large",
+        "image":"https://i.ibb.co/rQ6qXcG/s-20kbd293i-skylee-original-imaggyyj2ayb2txk.png",
+        "color":"pink",
+        "Brand":"zara"
+        
+    },
+    {
+        "id":5,
+        "product_name":"sport tshirts",
+        "category_id":2,
+        "category":"fashion",
+        "price":699,
+        "size":"small,medium,large",
+        "image":"https://i.ibb.co/jrB4858/m-adss21cn054c-adrenex-original-imag5eqyctzvds8z.png",
+        "color":"blue",
+        "Brand":"Adidas"
+        
+    },
+    {
+        "id":6,
+        "product_name":"sarees",
+        "category_id":2,
+        "category":"fashion",
+        "price":799,
+        "size":"small,medium,large",
+        "image":"https://i.ibb.co/m66sfwG/free-codinn-lace-black-lavpil-unstitched-original-imag4sh8pep5dgtv.png",
+        "color":"black",
+        "Brand":"Pisara"
+        
+    },
+    {
+        "id":7,
+        "product_name":"kurta and pyjama",
+        "category_id":2,
+        "category":"fashion",
+        "price":1999,
+        "size":"small,medium,large",
+        "image":"https://i.ibb.co/vDySgHf/40-no-jqrd-nehrujacket-kaifoo-kaifoo-original-imag6yjkygyzkpfb.png",
+        "color":"black-white",
+        "Brand":"manyavar"
+        
+    },
+    {
+        "id":8,
+        "product_name":"jeans",
+        "category_id":2,
+        "category":"fashion",
+        "price":1299,
+        "size":"small,medium,large",
+        "image":"https://i.ibb.co/104rqmp/32-dtaw21jn010-ducati-original-imagam89szvwwpan.png",
+        "color":"blue",
+        "Brand":"Denim"
+        
+    },
+    {
+        "id":9,
+        "product_name":"women Tops",
+        "category_id":2,
+        "category":"fashion",
+        "price":899,
+        "size":"small,medium,large",
+        "image":"https://i.ibb.co/0t93pHj/xl-117tkr2638-selvia-original-imafyupkgq7egjx4.png",
+        "color":"maroon",
+        "Brand":"clovia"
+        
+    },
+    {
+        "id":10,
+        "product_name":"women winter wear tops",
+        "category_id":2,
+        "category":"fashion",
+        "price":1299,
+        "size":"small,medium,large",
+        "image":"https://i.ibb.co/Ks9XcQh/s-59815501-forever-21-original-imagh83tq6ntvzvf.png",
+        "color":"sky blue",
+        "Brand":"Max" 
+    }
+
+]

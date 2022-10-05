@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "product_name":"ipad",
+        "category_id":3,
+        "category":"Electronics",
+        "price":49999,
+        "size":"12.5 inch",
+        "image":"https://i.ibb.co/MBYYxj8/original-imagcbjrkffdzqrz.png",
+        "color":"silver",
+        "Brand":"iphone"
+        
+    },
+    {
+        "id":2,
+        "product_name":"LED Android Tv",
+        "category_id":3,
+        "category":"Electronics",
+        "price":14999,
+        "size":"32 inch",
+        "image":"https://i.ibb.co/PjdsWD0/original-imagg4y9qenhkyg7.png",
+        "color":"Black",
+        "Brand":"Realme"
+        
+    },
+    {
+        "id":3,
+        "product_name":"Smart Watch",
+        "category_id":3,
+        "category":"Electronics",
+        "price":2999,
+        "size":"regular",
+        "image":"https://i.ibb.co/fHTpY9s/original-imagexje57hyzsvu.png",
+        "color":"white",
+        "Brand":"Noise"
+        
+    },
+    {
+        "id":4,
+        "product_name":"boat Airbuds wireless headphone",
+        "category_id":3,
+        "category":"Electronics",
+        "price":1599,
+        "size":"regular",
+        "image":"https://i.ibb.co/3fHwH9X/original-imagf2yz6hqu74ph.png",
+        "color":"white",
+        "Brand":"boat"
+        
+    },
+    {
+        "id":5,
+        "product_name":" canon dslr camera",
+        "category_id":3,
+        "category":"Electronics",
+        "price":35999,
+        "size":"regular",
+        "image":"https://i.ibb.co/4V7XV5x/digital-camera-eos-m50-mark-ii-eos-m50-mark-ii-canon-original-imag2gzkexzqhyhu.png",
+        "color":"Black",
+        "Brand":"Canon"
+        
+    },
+    {
+        "id":6,
+        "product_name":" philips Oven",
+        "category_id":3,
+        "category":"Electronics",
+        "price":11999,
+        "size":"medium",
+        "image":"https://i.ibb.co/Gprhyjf/hd6975-philips-25-original-imafj6b46f3mkfzp.png",
+        "color":"black",
+        "Brand":"Philips"
+        
+    },
+    {
+        "id":7,
+        "product_name":"boat bluetooth speaker 110",
+        "category_id":3,
+        "category":"Electronics",
+        "price":1999,
+        "size":"small",
+        "image":"https://i.ibb.co/dgprWPd/boat-stone-650-original-imafdcqyeygc5ycz.png",
+        "color":"blue",
+        "Brand":"boat"
+        
+    },
+    {
+        "id":8,
+        "product_name":"whircool referigerator",
+        "category_id":3,
+        "category":"Electronics",
+        "price":28999,
+        "size":"large",
+        "image":"https://i.ibb.co/s5c1qFs/neo-258lh-cls-plus-magnum-steel-2s-n-2-whirlpool-original-imafpefswgu9qgwd.png",
+        "color":"silver",
+        "Brand":"whircool"
+        
+    },
+    {
+        "id":9,
+        "product_name":"Hp monitor",
+        "category_id":3,
+        "category":"Electronics",
+        "price":11999,
+        "size":"32 inch",
+        "image":"https://i.ibb.co/n0xRH5T/m24fwa-full-hd-34y23aa-hp-original-imag5ztf4gtjsdzf.png",
+        "color":"white",
+        "Brand":"Hp"
+        
+    },
+    {
+        "id":10,
+        "product_name":"lenovo laptop ",
+        "category_id":3,
+        "category":"Electronics",
+        "price":49999,
+        "size":"15.6 inch",
+        "image":"https://i.ibb.co/BT2JVzb/original-imagg5jspqht3hym.png",
+        "color":"silver",
+        "Brand":"lenovo" 
+    }
+
+]

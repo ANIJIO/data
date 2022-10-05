@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "product_name":"realme 9 pro",
+        "category_id":1,
+        "category":"Mobile",
+        "price":12000,
+        "size":"5.6 inch",
+        "image":"https://i.ibb.co/rMqh72R/original-imagbmf2hbxazyf3.png",
+        "color":"skyblue",
+        "Brand":"realme"
+        
+    },
+    {
+        "id":2,
+        "product_name":"samsung F23 5G",
+        "category_id":1,
+        "category":"Mobile",
+        "price":14000,
+        "size":"5.4 inch",
+        "image":"https://i.ibb.co/yR0Vzn3/original-imagehzbaw2wugme.png",
+        "color":"ligth brown",
+        "Brand":"samsung"
+        
+    },
+    {
+        "id":3,
+        "product_name":"Redmi 10 pro",
+        "category_id":1,
+        "category":"Mobile",
+        "price":13000,
+        "size":"5.6 inch",
+        "image":"https://i.ibb.co/L1YcQBX/original-imagg7pjuxmqubzw.png",
+        "color":"black",
+        "Brand":"Redmi"
+        
+    },
+    {
+        "id":4,
+        "product_name":"vivo v9",
+        "category_id":1,
+        "category":"Mobile",
+        "price":11000,
+        "size":"5.6 inch",
+        "image":"https://i.ibb.co/6wNdZZn/original-imagh4fnprjvgzzj.png",
+        "color":"gray",
+        "Brand":"vivo"
+        
+    },
+    {
+        "id":5,
+        "product_name":" iphone 14",
+        "category_id":1,
+        "category":"Mobile",
+        "price":1300000,
+        "size":"5.6 inch",
+        "image":"https://i.ibb.co/2jkVf9c/original-imaghxeeme2n7hy7.png",
+        "color":"silver",
+        "Brand":"iphone"
+        
+    },
+    {
+        "id":6,
+        "product_name":"oppo F19 PRO",
+        "category_id":1,
+        "category":"Mobile",
+        "price":16000,
+        "size":"5.6 inch",
+        "image":"https://i.ibb.co/q7K9ryn/f19-pro-cph2285-oppo-original-imag3x2yfanahdgk.png",
+        "color":"blue",
+        "Brand":"oppo"
+        
+    },
+    {
+        "id":7,
+        "product_name":"iphone 13 pro",
+        "category_id":1,
+        "category":"Mobile",
+        "price":900000,
+        "size":"5.6 inch",
+        "image":"https://i.ibb.co/0F5xKSQ/iphone-13-pro-max-mlll3hn-a-apple-original-imag6vpg3r7dyvhm.png",
+        "color":"sliver",
+        "Brand":"iphone"
+        
+    },
+    {
+        "id":8,
+        "product_name":"samsung galaxy S22 ultra",
+        "category_id":1,
+        "category":"Mobile",
+        "price":99000,
+        "size":"5.6 inch",
+        "image":"https://i.ibb.co/FXWRTcV/original-imaggj68pbbezxcr.png",
+        "color":"silver gray",
+        "Brand":"samsung"
+        
+    },
+    {
+        "id":9,
+        "product_name":"samsung F13",
+        "category_id":1,
+        "category":"Mobile",
+        "price":18000,
+        "size":"5.6 inch",
+        "image":"https://i.ibb.co/QNDDxXw/original-imagfhu75eupxyft.png",
+        "color":"sky blue",
+        "Brand":"samsung"
+        
+    },
+    {
+        "id":10,
+        "product_name":"realme c31",
+        "category_id":1,
+        "category":"Mobile",
+        "price":9000,
+        "size":"5.6 inch",
+        "image":"https://i.ibb.co/sHPGT3g/original-imagcyj4unsxhadw.png",
+        "color":"black",
+        "Brand":"realme"
+        
+    }
+]

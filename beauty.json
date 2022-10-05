@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "product_name":"Gillette sensitive skin shave foam ",
+        "category_id":4,
+        "category":"beauty",
+        "price":699,
+        "size":"medium",
+        "image":"https://i.ibb.co/0yfzyZ1/original-imag9gynbze8b5ta.png",
+        "color":"blue",
+        "Brand":"Gillette"
+        
+    },
+    {
+        "id":2,
+        "product_name":"Garnier men face wash",
+        "category_id":4,
+        "category":"beauty",
+        "price":599,
+        "size":"medium",
+        "image":"https://i.ibb.co/pZtyqSq/original-imag9nqpzmgrtaaw.png",
+        "color":"black",
+        "Brand":"Garnier"
+        
+    },
+    {
+        "id":3,
+        "product_name":"Nivea moisturising cream",
+        "category_id":4,
+        "category":"beauty",
+        "price":499,
+        "size":"small",
+        "image":"https://i.ibb.co/W2q85BT/original-imagbzy4cqzgufma.png",
+        "color":"white",
+        "Brand":"Nivea"
+        
+    },
+    {
+        "id":4,
+        "product_name":"Wild stone perfume",
+        "category_id":4,
+        "category":"beauty",
+        "price":800,
+        "size":"medium",
+        "image":"https://i.ibb.co/x6sRbtC/original-imagcqwgfaufa2d8.png",
+        "color":"red",
+        "Brand":"Wild stone"
+        
+    },
+    {
+        "id":5,
+        "product_name":"Lakme Eyeconic Kajal",
+        "category_id":4,
+        "category":"beauty",
+        "price":699,
+        "size":"medium",
+        "image":"https://i.ibb.co/crTcSnM/original-imaggdynczfj9pbt.png",
+        "color":"black",
+        "Brand":"Lakme"
+        
+    },
+    {
+        "id":6,
+        "product_name":"kesh king shampoo",
+        "category_id":4,
+        "category":"beauty",
+        "price":399,
+        "size":"medium",
+        "image":"https://i.ibb.co/s5P34Ns/200-scalp-and-hair-medicine-anti-hairfall-shampoo-kesh-king-original-imagbnyhdywhnfaw.png",
+        "color":"green",
+        "Brand":"keshking"
+        
+    },
+    {
+        "id":7,
+        "product_name":"godrej hair colour",
+        "category_id":4,
+        "category":"beauty",
+        "price":199,
+        "size":"small",
+        "image":"https://i.ibb.co/kqsq2tP/original-imagaw5wybf93zfb.png",
+        "color":"black",
+        "Brand":"Godrej"
+        
+    },
+    {
+        "id":8,
+        "product_name":"ponds face powder",
+        "category_id":4,
+        "category":"beauty",
+        "price":99,
+        "size":"small",
+        "image":"https://i.ibb.co/xGFyYfX/original-imagegdd8vrnzhdt.png",
+        "color":"purple",
+        "Brand":"ponds"
+        
+    },
+    {
+        "id":9,
+        "product_name":"pears soap",
+        "category_id":4,
+        "category":"beauty",
+        "price":99,
+        "size":"medium",
+        "image":"https://i.ibb.co/8xSjHGS/original-imagevkyadv2jwzj.png",
+        "color":"orange",
+        "Brand":"pears"
+        
+    },
+    {
+        "id":10,
+        "product_name":"parachute hair oil",
+        "category_id":4,
+        "category":"beauty",
+        "price":69,
+        "size":"medium",
+        "image":"https://i.ibb.co/Jz49jr9/original-imagazg8s9ehzdwf.png",
+        "color":"white",
+        "Brand":"parachute" 
+    }
+
+]
